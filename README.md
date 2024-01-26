@@ -12,7 +12,7 @@
 - Install [Visual C++](https://support.microsoft.com/fr-fr/help/2977003/the-latest-supported-visual-c-downloads)
 - Download [last release](https://gitlab.com/VTX_mol/VTX/-/releases)
 - Run the installer (it will automatically extract files in the current folder)
-- Launch VTX shortcut, or run in command line
+- Launch VTX shortcut, or run in command line or using VTX.exe in /bin/release/ folder
 
 #### Linux
 
