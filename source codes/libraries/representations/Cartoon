@@ -1,0 +1,20 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.03921568766236305,
+            "G": 0.03921568766236305,
+            "R": 0.9019608497619629
+        },
+        "COLOR_MODE": "CHAIN",
+        "QUICK_ACCESS": true,
+        "RIBBON_COLOR_BLENDING_MODE": "HARD",
+        "RIBBON_COLOR_MODE": "JMOL",
+        "TYPE": "CARTOON"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

@@ -1,0 +1,37 @@
+[21:06:48] [INFO] Starting application: C:/Users/Titan/Downloads/VTX_0.4.1/bin/Release/VTX.exe
+[21:06:48] [INFO] Settings loaded 
+[21:06:48] [INFO] Representation library loaded.
+[21:06:48] [INFO] File treated in 0.000959s
+[21:06:48] [INFO] Render effect library loaded.
+[21:06:48] [INFO] File treated in 0.004144s
+[21:06:50] [INFO] Initializing OpenGL...
+[21:06:50] [INFO] GL device: NVIDIA Corporation NVIDIA GeForce 940MX/PCIe/SSE2
+[21:06:50] [INFO] GL version: 4.6.0 NVIDIA 472.19
+[21:06:50] [INFO] GLSL version: 4.60 NVIDIA
+[21:06:50] [INFO] Initializing renderer...
+[21:06:51] [INFO] Renderer initialized
+[21:06:51] [INFO] Application started
+[21:06:51] [INFO] OpenSSL version : Secure Channel (NTDDI: 0xA00000B)
+[21:06:51] [INFO] Checking for update
+[21:06:52] [INFO] No update available
+[21:06:54] [INFO] Settings Saved 
+[21:06:54] [INFO] Saving Cartoon
+[21:06:54] [INFO] File treated in 0.000688s
+[21:06:54] [INFO] Saving Ball And Stick
+[21:06:54] [INFO] File treated in 0.000481s
+[21:06:54] [INFO] Saving Cartoon + Stick
+[21:06:54] [INFO] File treated in 0.000440s
+[21:06:54] [INFO] Saving Stick
+[21:06:54] [INFO] File treated in 0.000753s
+[21:06:54] [INFO] Saving SAS
+[21:06:54] [INFO] File treated in 0.000447s
+[21:06:54] [INFO] Saving SES
+[21:06:54] [INFO] File treated in 0.000401s
+[21:06:54] [INFO] Saving VdW
+[21:06:54] [INFO] File treated in 0.000404s
+[21:06:54] [INFO] Saving Sketch
+[21:06:54] [INFO] File treated in 0.000697s
+[21:06:54] [INFO] Saving Default
+[21:06:54] [INFO] File treated in 0.000717s
+[21:06:54] [INFO] Saving Papier
+[21:06:54] [INFO] File treated in 0.000575s

@@ -1,0 +1,17 @@
+[21:17:42] [INFO] Starting application: C:/Users/Titan/Downloads/VTX_0.4.1/bin/Release/VTX.exe
+[21:17:42] [INFO] Settings loaded 
+[21:17:42] [INFO] Representation library loaded.
+[21:17:42] [INFO] File treated in 0.001074s
+[21:17:42] [INFO] Render effect library loaded.
+[21:17:42] [INFO] File treated in 0.000517s
+[21:17:43] [INFO] Initializing OpenGL...
+[21:17:43] [INFO] GL device: NVIDIA Corporation NVIDIA GeForce 940MX/PCIe/SSE2
+[21:17:43] [INFO] GL version: 4.6.0 NVIDIA 472.19
+[21:17:43] [INFO] GLSL version: 4.60 NVIDIA
+[21:17:43] [INFO] Initializing renderer...
+[21:17:43] [INFO] Renderer initialized
+[21:17:43] [INFO] Application started
+[21:17:43] [INFO] OpenSSL version : Secure Channel (NTDDI: 0xA00000B)
+[21:17:43] [INFO] Checking for update
+[21:17:44] [INFO] No update available
+[21:18:23] [INFO] Loading md_0_1.xtc

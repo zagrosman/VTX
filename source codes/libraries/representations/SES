@@ -1,0 +1,18 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.03921568766236305,
+            "G": 0.03921568766236305,
+            "R": 0.9019608497619629
+        },
+        "COLOR_MODE": "PROTEIN",
+        "QUICK_ACCESS": true,
+        "TYPE": "SES"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

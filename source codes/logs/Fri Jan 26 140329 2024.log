@@ -1,0 +1,44 @@
+[14:03:29] [INFO] Starting application: C:/Users/Titan/Downloads/VTX_0.4.1/bin/Release/VTX.exe
+[14:03:29] [INFO] No settings file found
+[14:03:29] [INFO] Representation library loaded.
+[14:03:29] [INFO] File treated in 0.000204s
+[14:03:29] [INFO] Render effect library loaded.
+[14:03:29] [INFO] File treated in 0.000557s
+[14:03:34] [INFO] Initializing OpenGL...
+[14:03:34] [INFO] GL device: NVIDIA Corporation NVIDIA GeForce 940MX/PCIe/SSE2
+[14:03:34] [INFO] GL version: 4.6.0 NVIDIA 472.19
+[14:03:34] [INFO] GLSL version: 4.60 NVIDIA
+[14:03:35] [INFO] Initializing renderer...
+[14:03:35] [INFO] Renderer initialized
+[14:03:35] [INFO] Application started
+[14:03:35] [INFO] OpenSSL version : Secure Channel (NTDDI: 0xA00000B)
+[14:03:35] [INFO] Checking for update
+[14:03:38] [INFO] No update available
+[14:05:42] [INFO] Loading 56.cif
+[14:05:43] [INFO] 2 frames found
+[14:05:43] [ERROR] Error when loading 56.cif : line '#' has 1 items not 18
+[14:05:57] [ERROR] Error when loading C:/Users/Titan/Documents/shared-folder/phenolexplorer/protein.pdbqt : Format not supported
+[14:06:16] [INFO] Loading PE3.pdb
+[14:06:16] [INFO] 1 frames found
+[14:06:16] [INFO] Trajectory read in: 0.073539s
+[14:06:19] [INFO] recomputeBondOrders: 0.000627s
+[14:06:19] [INFO] File PE3.pdb treated in 3.416955s
+[14:06:20] [INFO] Molecule: unknown
+[14:06:20] [INFO] Chains: 2 / Residues: 419 / Atoms: 4086 / Bonds: 3951
+[14:06:20] [INFO] Unknown residue symbols : UNL 
+[14:06:53] [INFO] Computing secondary structure...
+[14:06:53] [INFO] Secondary structure computed in 0.001618s
+[14:08:39] [INFO] Loading md_0_1.gro
+[14:08:39] [INFO] 1 frames found
+[14:08:39] [INFO] Trajectory read in: 0.228338s
+[14:08:40] [INFO] recomputeBondOrders: 0.000001s
+[14:08:40] [INFO] File md_0_1.gro treated in 1.423373s
+[14:08:40] [INFO] Molecule: Protein in water
+[14:08:40] [INFO] Chains: 4 / Residues: 32449 / Atoms: 103508 / Bonds: 0
+[14:08:40] [INFO] Unknown residue symbols : CA CL SOL NA 
+[14:08:40] [WARNING] Unknown atom symbols : HE22 HB1 HA HZ1 HH12 H1 CG HE21 HB2 HH11 HZ2 HE3 H2 HZ3 HE2 H3 HD21 OE1 CD2 CB HD22 OE2 CD1 HD1 HD2 CE1 HE1 CE2 CZ OH HH HH22 OG HG12 HG1 HG11 HG2 OD1 CG2 ND2 HG23 HB NH1 OG1 HG21 HG22 NE2 HA1 HA2 NH2 HH21 ND1 CG1 HD3 HG13 HD11 HD12 HD13 HD23 HZ NE1 CE3 CZ2 CZ3 CH2 HH2 OD2 HB3 NZ SD O1 O2 OW HW1 HW2 
+[14:09:00] [INFO] Computing secondary structure...
+[14:09:00] [INFO] Secondary structure computed in 0.006098s
+[14:10:30] [INFO] Loading md_0_1.xtc
+[14:13:09] [INFO] Frames read in: 144.299652s
+[14:13:09] [INFO] File md_0_1.xtc treated in 158.525513s

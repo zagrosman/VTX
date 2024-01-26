@@ -1,0 +1,19 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.8627451658248901,
+            "G": 0.8627451658248901,
+            "R": 0.0
+        },
+        "COLOR_MODE": "CHAIN",
+        "QUICK_ACCESS": true,
+        "SPHERE_RADIUS": 0.4000000059604645,
+        "TYPE": "SAS"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

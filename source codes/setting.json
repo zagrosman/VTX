@@ -1,0 +1,46 @@
+{
+    "DATA": {
+        "ACTIVE_CONTROLLER_ELASTICITY": true,
+        "ACTIVE_RENDERER": true,
+        "ACTIVE_VSYNC": true,
+        "BACKGROUND_OPACITY": 1.0,
+        "BACKGROUND_RESOLUTION": "Free",
+        "CAMERA_AA": true,
+        "CAMERA_FAR_CLIP": 10000.0,
+        "CAMERA_FOV": 45.0,
+        "CAMERA_NEAR_CLIP": 0.0,
+        "CAMERA_PERSPECTIVE_PROJECTION": true,
+        "CHECK_VTX_UPDATE_AT_LAUNCH": true,
+        "CONTROLLER_ACCELERATION_FACTOR": 2.0,
+        "CONTROLLER_DECELERATION_FACTOR": 10.0,
+        "CONTROLLER_ELASTICITY_FACTOR": 6.0,
+        "CONTROLLER_ROTATION_SPEED": 0.004999999888241291,
+        "CONTROLLER_TRANSLATION_SPEED": 150.0,
+        "CONTROLLER_Y_AXIS_INVERTED": false,
+        "DEFAULT_REPRESENTATION_PER_CATEGORY": [
+            "Stick",
+            "Stick",
+            "Stick",
+            "VdW",
+            "Stick",
+            "Stick",
+            "Stick"
+        ],
+        "DEFAULT_TRAJECTORY_PLAY_MODE": "Loop",
+        "DEFAULT_TRAJECTORY_SPEED": 5,
+        "FORCE_RENDERER": false,
+        "PORTABLE_SAVE_ACTIVATED": false,
+        "RENDER_EFFECT_DEFAULT": "Default",
+        "REPRESENTATION": "Stick",
+        "SELECTION_GRANULARITY": "RESIDUE",
+        "SNAPSHOT_FORMAT": 0,
+        "SNAPSHOT_QUALITY": 1.0,
+        "SYMBOL_DISPLAY_MODE": 0,
+        "WINDOW_FULLSCREEN": false
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

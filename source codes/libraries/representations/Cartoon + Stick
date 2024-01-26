@@ -1,0 +1,23 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.0,
+            "G": 0.9019608497619629,
+            "R": 0.9019608497619629
+        },
+        "COLOR_MODE": "CHAIN",
+        "CYLINDER_COLOR_BLENDING_MODE": "HARD",
+        "CYLINDER_RADIUS": 0.15000000596046448,
+        "QUICK_ACCESS": true,
+        "RIBBON_COLOR_BLENDING_MODE": "HARD",
+        "RIBBON_COLOR_MODE": "JMOL",
+        "SPHERE_RADIUS": 0.15000000596046448,
+        "TYPE": "STICK_AND_CARTOON"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

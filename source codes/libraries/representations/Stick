@@ -1,0 +1,21 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.9215686917304993,
+            "G": 0.9215686917304993,
+            "R": 0.9215686917304993
+        },
+        "COLOR_MODE": "ATOM_CHAIN",
+        "CYLINDER_COLOR_BLENDING_MODE": "HARD",
+        "CYLINDER_RADIUS": 0.15000000596046448,
+        "QUICK_ACCESS": true,
+        "SPHERE_RADIUS": 0.15000000596046448,
+        "TYPE": "STICK"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}

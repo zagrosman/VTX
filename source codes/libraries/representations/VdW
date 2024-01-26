@@ -1,0 +1,19 @@
+{
+    "DATA": {
+        "COLOR": {
+            "A": 1.0,
+            "B": 0.8235294818878174,
+            "G": 0.5098039507865906,
+            "R": 0.5098039507865906
+        },
+        "COLOR_MODE": "ATOM_CHAIN",
+        "QUICK_ACCESS": true,
+        "SPHERE_RADIUS": 0.0,
+        "TYPE": "VAN_DER_WAALS"
+    },
+    "_VERSION": {
+        "MAJOR": 0,
+        "MINOR": 4,
+        "REVISION": 1
+    }
+}
